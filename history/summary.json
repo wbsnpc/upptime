@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/reading.npcssl.tk",
     "slug": "reader",
     "status": "down",
-    "uptime": "93.29%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "85.88%",
-    "uptimeMonth": "93.29%",
-    "uptimeYear": "93.29%",
+    "uptime": "87.38%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "87.38%",
     "time": 384,
     "timeDay": 0,
-    "timeWeek": 317,
+    "timeWeek": 328,
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-08-11": 50,
+      "2022-08-12": 47,
+      "2022-08-11": 1440,
       "2022-08-10": 1373
     }
   }
