@@ -54,7 +54,7 @@
     "url": "https://reader.htmake.com/",
     "icon": "https://icons.duckduckgo.com/ip3/reader.htmake.com.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "83.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,7 +62,7 @@
     "uptimeYear": "83.58%",
     "time": 1789,
     "timeDay": 2217,
-    "timeWeek": 2732,
+    "timeWeek": 2770,
     "timeMonth": 2457,
     "timeYear": 1789,
     "dailyMinutesDown": {
