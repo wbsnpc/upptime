@@ -4,7 +4,7 @@
     "url": "http://reader.wbsnpc.repl.co/#/",
     "icon": "https://icons.duckduckgo.com/ip3/reader.wbsnpc.repl.co.ico",
     "slug": "reader",
-    "status": "up",
+    "status": "down",
     "uptime": "89.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 2900,
     "timeYear": 1558,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2023-05-13": 19,
       "2022-09-09": 566,
       "2022-09-08": 1440,
@@ -67,6 +68,7 @@
     "timeMonth": 2052,
     "timeYear": 1794,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2023-05-13": 19,
       "2022-09-09": 566,
       "2022-09-08": 1440,
