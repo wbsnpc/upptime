@@ -1,7 +1,7 @@
 url: http://reader.wbsnpc.repl.co/#/
-status: up
-code: 200
-responseTime: 1730
-lastUpdated: 2023-10-05T02:07:50.362Z
+status: down
+code: 429
+responseTime: 140
+lastUpdated: 2023-10-05T05:55:28.685Z
 startTime: 2022-07-27T07:03:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
