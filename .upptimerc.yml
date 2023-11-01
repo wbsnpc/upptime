@@ -8,6 +8,9 @@ sites:
     
   - name: 阅读
     url: https://reader-qb3s.onrender.com/#/
+
+  - name: 百度
+    url: https://baidu.com
   
 
 
