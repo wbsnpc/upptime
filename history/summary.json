@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/javtube-acmecorporation.koyeb.app.ico",
     "slug": "metatube",
     "status": "down",
-    "uptime": "12.15%",
+    "uptime": "12.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 99,
+    "timeDay": 34,
     "timeWeek": 48,
-    "timeMonth": 76,
-    "timeYear": 248,
+    "timeMonth": 72,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2026-06-22": 172,
+      "2026-06-23": 147,
+      "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -379,8 +380,7 @@
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
-      "2025-06-24": 1440,
-      "2025-06-23": 1440
+      "2025-06-24": 1440
     }
   }
 ]
